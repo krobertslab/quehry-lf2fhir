@@ -1,0 +1,30 @@
+{
+  "4040874": {
+    "SNOMEDCT_US": "711385006,787301000000101",
+    "semantic_type": "Health Care Activity"
+  },
+  "0042029": {
+    "SNOMEDCT_US": "274110008,266634001,155896006,68566005,155897002,266635000,869761000000107",
+    "CHV": "0000012789",
+    "ICD9CM": "599.0",
+    "LNC": "LA6437-3",
+    "ICD10": "N39.0",
+    "semantic_type": "Disease or Syndrome"
+  },
+  "1443399": {
+    "SNOMEDCT_US": "408869004,872781000000100",
+    "semantic_type": "Health Care Activity"
+  },
+  "0201811": {
+    "SNOMEDCT_US": "270024004,104435004,144895007,144890002,80556006,167665003,167670005,1015401000000102",
+    "semantic_type": "Laboratory Procedure"
+  },
+  "2584831": {
+    "SNOMEDCT_US": "440668008,755621000000101",
+    "semantic_type": "Therapeutic or Preventive Procedure"
+  },
+  "4276359": {
+    "RXNORM": "1804798,308056",
+    "semantic_type": "Clinical Drug"
+  }
+}
